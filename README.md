@@ -1,4 +1,4 @@
-# reigniter-ai
+# Reigniter
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,132 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-reigniter-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://reigniter.ai/
+Reigniter provides AI-powered employees that automate marketing, customer acquisition, website and app building, and generate AI video ads. Their platform offers an all‑in‑one solution for businesses to hire virtual AI staff, create digital experiences, and run advertising campaigns autonomously, with a free starter tier and enterprise options.
+
+**Areas:** AI · Marketing · Automation · SaaS · Company
+
+## Reigniter on APIs.io
+
+Everything profiled for Reigniter is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/reigniter-ai/](https://apis.io/providers/reigniter-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Reigniter API](https://apis.io/apis/reigniter-ai/reigniter-ai-api/) — Reigniter API as documented publicly: 12 operations. Contract generated from the documentation by API Evangelist (2026-11-23); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Reigniter Ai Webhooks](https://apis.io/asyncapis/reigniter-ai/reigniter-ai-webhooks/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetV1JobResponse](https://apis.io/schemas/reigniter-ai/reigniter-ai-get-v1-job-response/)
+- [PatchApiWebhooksHooksIdRequest](https://apis.io/schemas/reigniter-ai/reigniter-ai-patch-api-webhooks-hooks-id-request/)
+- [PostApiWebhooksHooksIdTestResponse](https://apis.io/schemas/reigniter-ai/reigniter-ai-post-api-webhooks-hooks-id-test-response/)
+- [PostApiWebhooksHooksRequest](https://apis.io/schemas/reigniter-ai/reigniter-ai-post-api-webhooks-hooks-request/)
+- [PostApiWebhooksHooksResponse](https://apis.io/schemas/reigniter-ai/reigniter-ai-post-api-webhooks-hooks-response/)
+- [PostV1RenderResponse](https://apis.io/schemas/reigniter-ai/reigniter-ai-post-v1-render-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Reigniter Ai Context](https://apis.io/jsonld/reigniter-ai/reigniter-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Reigniter API Rules](https://apis.io/rules/reigniter-ai/reigniter-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Reigniter Authentication](https://apis.io/security/reigniter-ai/reigniter-ai-authentication/)
+- [Reigniter Domain Security](https://apis.io/security/reigniter-ai/reigniter-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Reigniter Plans Pricing](https://apis.io/plans/reigniter-ai/reigniter-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://reigniter.ai/)
+- [Documentation](https://dev.reigniter.ai/)
+- [Getting started](https://reigniter.ai/docs/get-started/quickstart)
+- [API reference](https://reigniter.ai/docs/api/reference/)
+- [Pricing](https://reigniter.ai/pricing)
+- [Support](https://help.reigniter.ai/)
+- [Blog](https://blog.reigniter.ai/)
+- [Security](https://reigniter.ai/security)
+- [Terms of service](https://reigniter.ai/terms)
+- [Privacy policy](https://reigniter.ai/privacy)
+- [Status](https://status.reigniter.ai/)
+
+## API Evangelist rating
+
+**Kin Score 58.2** — strong · rubric 0.28.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 69.6 |
+| Contract quality | 61.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.0 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 59.1 |
+
+**Agent readiness 48.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/reigniter-ai/](https://apis.io/providers/reigniter-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Reigniter: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/reigniter-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
